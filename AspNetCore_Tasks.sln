@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Controller_task", "Controll
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelBinding_task", "ModelBinding_task\ModelBinding_task.csproj", "{6592D88D-84A9-499B-8A9D-F5F989C86F87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection_task", "DependencyInjection_task\DependencyInjection_task.csproj", "{29149403-07E0-4B9B-9C17-E19583F76A2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjection_task", "DependencyInjection_task\DependencyInjection_task.csproj", "{29149403-07E0-4B9B-9C17-E19583F76A2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Configuration_task_one", "Configuration_task\Configuration_task_one.csproj", "{EEE4A5F3-4596-4889-96A2-F466233390E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{29149403-07E0-4B9B-9C17-E19583F76A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29149403-07E0-4B9B-9C17-E19583F76A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29149403-07E0-4B9B-9C17-E19583F76A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE4A5F3-4596-4889-96A2-F466233390E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE4A5F3-4596-4889-96A2-F466233390E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE4A5F3-4596-4889-96A2-F466233390E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE4A5F3-4596-4889-96A2-F466233390E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
